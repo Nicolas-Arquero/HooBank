@@ -48,24 +48,24 @@ export const feedback = [
     id: "feedback-1",
     content:
       "Grâce à votre plateforme de paiement en ligne, j'ai pu augmenter mes ventes en ligne de manière significative.",
-    name: "Herman Jensen",
-    title: "Founder & Leader",
+    name: "Sophie Girard",
+    title: "Fondatrice",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
       "Je suis très satisfait de la facilité d'utilisation de votre plateforme de paiement en ligne, mes clients peuvent effectuer leurs achats en un rien de temps.",
-    name: "Steve Mark",
-    title: "Founder & Leader",
+    name: "Pierre Lefebve",
+    title: "Fondateur",
     img: people02,
   },
   {
     id: "feedback-3",
     content:
       "Vos options de paiement sécurisées m'ont permis de dormir sur mes deux oreilles, je n'ai jamais eu à m'inquiéter pour la sécurité des transactions de mes clients.",
-    name: "Kenn Gallagher",
-    title: "Founder & Leader",
+    name: "Jean Roux",
+    title: "Fondateur",
     img: people03,
   },
 ];

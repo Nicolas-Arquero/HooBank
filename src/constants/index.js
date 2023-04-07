@@ -23,23 +23,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Récompenses",
+    title: "Des avantages exclusifs",
     content:
-      "Les meilleures cartes de crédit offrent des combinaisons alléchantes de promotions et de récompenses",
+      "Des récompenses sur mesure : profitez d'offres exclusives et de récompenses personnalisées pour votre fidélité",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Sécurisé",
+    title: "Sécurité et fiabilité à toute épreuve",
     content:
-      "Nous prenons des mesures proactives pour nous assurer que vos informations et transactions sont sécurisées.",
+      "Votre sécurité est notre priorité : découvrez notre approche de pointe en matière de protection des paiements",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Transfert de Solde",
+    title: "Une expérience utilisateur optimale",
     content:
-      "Une carte de crédit de transfert de solde peut vous faire économiser beaucoup d'argent sur les frais d'intérêts.      ",
+      "Simplicité et efficacité : notre solution de paiement en ligne est conçue pour faciliter votre expérience",
   },
 ];
 
@@ -47,7 +47,7 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
+      "Grâce à votre plateforme de paiement en ligne, j'ai pu augmenter mes ventes en ligne de manière significative.",
     name: "Herman Jensen",
     title: "Founder & Leader",
     img: people01,
@@ -55,7 +55,7 @@ export const feedback = [
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
+      "Je suis très satisfait de la facilité d'utilisation de votre plateforme de paiement en ligne, mes clients peuvent effectuer leurs achats en un rien de temps.",
     name: "Steve Mark",
     title: "Founder & Leader",
     img: people02,
@@ -63,7 +63,7 @@ export const feedback = [
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
+      "Vos options de paiement sécurisées m'ont permis de dormir sur mes deux oreilles, je n'ai jamais eu à m'inquiéter pour la sécurité des transactions de mes clients.",
     name: "Kenn Gallagher",
     title: "Founder & Leader",
     img: people03,

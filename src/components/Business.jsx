@@ -22,13 +22,10 @@ const Business = () =>  (
   <section id="features" className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        You do the business, <br className="sm:block hidden" /> we’ll handle
-        the money.
+        Plateforme de paiement <br className="sm:block hidden" /> en ligne facile à utiliser.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        With the right credit card, you can improve your financial life by
-        building credit, earning rewards and saving money. But with hundreds
-        of credit cards on the market.
+      Nous savons que le traitement des paiements peut être un défi pour les entreprises, c'est pourquoi nous sommes là pour vous aider à gérer l'argent et les transactions afin que vous puissiez vous concentrer sur ce que vous faites de mieux : développer votre entreprise.
       </p>
 
       <Button styles={`mt-10`} />

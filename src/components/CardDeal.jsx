@@ -6,12 +6,11 @@ const CardDeal = () => (
   <section className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Find a better card deal <br className="sm:block hidden" /> in few easy
-        steps.
+      Trouvez une meilleure offre <br className="sm:block hidden" /> en quelques étapes simples.
+
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Arcu tortor, purus in mattis at sed integer faucibus. Aliquet quis
-        aliquet eget mauris tortor.ç Aliquet ultrices ac, ametau.
+      Facile et rapide, vous pouvez trouver la carte de crédit qui convient le mieux à vos besoins en quelques étapes simples. 
       </p>
 
       <Button styles={`mt-10`} />

@@ -3,15 +3,15 @@ import { people01, people02, people03, facebook, instagram, linkedin, twitter, a
 export const navLinks = [
   {
     id: "home",
-    title: "Home",
+    title: "Accueil",
   },
   {
     id: "features",
-    title: "Features",
+    title: "Fonctionnalités",
   },
   {
     id: "product",
-    title: "Product",
+    title: "Produit",
   },
   {
     id: "clients",
@@ -23,23 +23,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Récompenses",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Les meilleures cartes de crédit offrent des combinaisons alléchantes de promotions et de récompenses",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "100% Sécurisé",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "Nous prenons des mesures proactives pour nous assurer que vos informations et transactions sont sécurisées.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Transfert de Solde",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Une carte de crédit de transfert de solde peut vous faire économiser beaucoup d'argent sur les frais d'intérêts.      ",
   },
 ];
 
@@ -73,18 +73,18 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "User Active",
+    title: "utilisateurs actifs",
     value: "3800+",
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
+    title: "entreprises clientes",
     value: "230+",
   },
   {
     id: "stats-3",
-    title: "Transaction",
-    value: "$230M+",
+    title: "transactions",
+    value: "230M€",
   },
 ];
 
